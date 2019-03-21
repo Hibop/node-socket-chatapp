@@ -1,2 +1,3 @@
 # chatapp
-node-websoket chatapp
+
+> node-socket chatapp
